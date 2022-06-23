@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1889147-95a5-4185-a6b8-bafbe9572b90" name="Changes" comment="Added С++ guide book">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="layouting" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Agp0wY6KEVJFiQaSVMPw5eg5BM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/MYAWUTB/Desktop/practice/html/lessons",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MYAWUTB\Desktop\practice\html\lessons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MYAWUTB\Desktop\practice\html\lessons" />
+      <recent name="C:\Users\MYAWUTB\Desktop\practice" />
+      <recent name="C:\Users\MYAWUTB\Desktop\practice\html" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1889147-95a5-4185-a6b8-bafbe9572b90" name="Changes" comment="" />
+      <created>1655440862982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655440862982</updated>
+      <workItem from="1655440864198" duration="2817000" />
+      <workItem from="1655443726572" duration="24958000" />
+      <workItem from="1655529211518" duration="20488000" />
+      <workItem from="1655556017846" duration="140000" />
+      <workItem from="1655556446706" duration="35642000" />
+      <workItem from="1655730439799" duration="2338000" />
+      <workItem from="1655735810814" duration="81195000" />
+    </task>
+    <task id="LOCAL-00001" summary="Main page layout almost done">
+      <created>1655542469650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655542469650</updated>
+    </task>
+    <task id="LOCAL-00002" summary="The sidebar on the main page is done">
+      <created>1655578847046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655578847046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="The FAQ page has filled.">
+      <created>1655657487134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655657487134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added video lessons page">
+      <created>1655817279111</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655817279111</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added С++ guide book">
+      <created>1656004667593</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656004667593</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Main page layout almost done" />
+    <MESSAGE value="The sidebar on the main page is done" />
+    <MESSAGE value="The FAQ page has filled." />
+    <MESSAGE value="Now there is a compiler on the compiler page." />
+    <MESSAGE value="Added video lessons page" />
+    <MESSAGE value="Added С++ guide book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added С++ guide book" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
